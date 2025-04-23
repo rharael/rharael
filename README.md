@@ -7,6 +7,6 @@
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rharael&show_icons=true&theme=yeblu&line_height=27&&hide=stars,prs,issues&include_all_commits&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rharael&show_icons=true&theme=yeblu&line_height=27&hide=stars,contribs&include_all_commits&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rharael&theme=yeblu&include_all_commits&count_private=true">
 </p>
